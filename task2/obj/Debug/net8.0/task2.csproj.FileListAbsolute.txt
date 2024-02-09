@@ -1,0 +1,14 @@
+E:\GB_Unity_study\DZ_rec_090224\task2\bin\Debug\net8.0\task2.exe
+E:\GB_Unity_study\DZ_rec_090224\task2\bin\Debug\net8.0\task2.deps.json
+E:\GB_Unity_study\DZ_rec_090224\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+E:\GB_Unity_study\DZ_rec_090224\task2\bin\Debug\net8.0\task2.dll
+E:\GB_Unity_study\DZ_rec_090224\task2\bin\Debug\net8.0\task2.pdb
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.dll
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\refint\task2.dll
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.pdb
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+E:\GB_Unity_study\DZ_rec_090224\task2\obj\Debug\net8.0\ref\task2.dll
